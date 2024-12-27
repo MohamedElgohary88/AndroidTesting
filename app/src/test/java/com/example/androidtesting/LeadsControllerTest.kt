@@ -19,7 +19,7 @@ class LeadsControllerTest {
     }
 
     @Test
-    fun `addLead adds lead to leads list`() {
+    fun `Given valid lead  when call addLead() then we should expect leads list has on item`() {
         // Given
         val lead = Lead("Mohamed", "Ramadan", "01016125421")
 
