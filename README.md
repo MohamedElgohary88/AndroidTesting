@@ -2,6 +2,8 @@
 
 This repository demonstrates best practices for testing Android applications using modern tools and frameworks. The project focuses on unit testing, coroutine handling, flow testing, and more, all built with Kotlin.
 
+![android testing](https://github.com/user-attachments/assets/c19d2df0-700a-4897-9abd-243834b074a8)
+
 ---
 
 ## Table of Contents
