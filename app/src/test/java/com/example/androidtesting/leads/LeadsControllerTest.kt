@@ -1,7 +1,5 @@
-package com.example.androidtesting
+package com.example.androidtesting.leads
 
-import com.example.androidtesting.leads.Lead
-import com.example.androidtesting.leads.LeadsController
 import junit.framework.TestCase.assertEquals
 import junit.framework.TestCase.assertTrue
 import org.junit.After
